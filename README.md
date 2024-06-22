@@ -30,16 +30,16 @@ This project utilizes regression analysis to predict the prices of BMW cars. The
 <p><b>transmission:</b> Type of transmission (e.g., automatic, manual), a key factor in buyer preferences.</p>
 <p><b>vin:</b> Vehicle Identification Number, unique code for individual motor vehicles, ensuring authenticity.</p>
 <p><b>drive:</b> Type of drivetrain (e.g., rwd - rear-wheel drive, fwd - front-wheel drive, 4wd - four-wheel drive), affecting driving dynamics.</p>
-<p>size: Size category of the car (e.g., compact, mid-size, full-size), relevant to space and utility.</p>
-<p>type: Type of car (e.g., sedan, coupe, SUV, truck), catering to different market segments.</p>
-<p>paint_color: Exterior paint color of the car, which can influence buyer preferences.</p>
-<p>county: County where the car is being sold, providing more localized market data.</p>
-<p>state: State where the car is being sold (e.g., OR for Oregon), further refining the geographic context.</p>
-<p>lat: Latitude coordinate of the car's location, useful for geographic analysis.</p>
-<p>long: Longitude coordinate of the car's location, complementing the latitude for precise geolocation.</p>
-Conclusion
-By leveraging the comprehensive dataset and employing regression analysis, this project aims to develop a robust predictive model for estimating BMW car prices. The insights gained from this analysis will not only help in accurate pricing but also provide valuable information about the factors influencing car values in the market.
-Notes
-NaN Values: Some columns may have NaN (Not a Number) values indicating missing data. For example, the cylinders, vin, size, and county columns in the sample row have missing values.
-Price Prediction: The project aims to use the features listed above to predict the price of BMW cars using regression analysis.
-This structured data provides a comprehensive overview of each car listing, capturing various attributes that can influence the car's price.
+<p><b>size:</b> Size category of the car (e.g., compact, mid-size, full-size), relevant to space and utility.</p>
+<p><b>type:</b> Type of car (e.g., sedan, coupe, SUV, truck), catering to different market segments.</p>
+<p><b>paint_color:</b> Exterior paint color of the car, which can influence buyer preferences.</p>
+<p><b>county:</b> County where the car is being sold, providing more localized market data.</p>
+<p><b>state:</b> State where the car is being sold (e.g., OR for Oregon), further refining the geographic context.</p>
+<p><b>lat:</b> Latitude coordinate of the car's location, useful for geographic analysis.</p>
+<p><b>long:</b> Longitude coordinate of the car's location, complementing the latitude for precise geolocation.</p>
+<h2>Conclusion</h2>
+<p>By leveraging the comprehensive dataset and employing regression analysis, this project aims to develop a robust predictive model for estimating BMW car prices. The insights gained from this analysis will not only help in accurate pricing but also provide valuable information about the factors influencing car values in the market.</p>
+<h2>Notes</h2>
+<p><b>NaN Values:</b> Some columns may have NaN (Not a Number) values indicating missing data. For example, the cylinders, vin, size, and county columns in the sample row have missing values.</p>
+<p><b>Price Prediction:</b> The project aims to use the features listed above to predict the price of BMW cars using regression analysis.</p>
+<p>This structured data provides a comprehensive overview of each car listing, capturing various attributes that can influence the car's price.</p>
