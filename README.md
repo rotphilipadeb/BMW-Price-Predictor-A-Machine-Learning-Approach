@@ -1,5 +1,6 @@
 # Project---predicting-the-price-of-BMW-car
 This project utilizes regression analysis to predict the prices of BMW cars. The dataset employed comprises 25 features (columns) and 40,000 samples (rows). The project effectively predicts the prices of BMW cars.
+<img src="bmw-m-series-m2-coupe-lci-modelfinder.png" alt="BMW m-series">
 
 <h2>Purpose of the Project</h2>
 <p>The purpose of this project is to predict the prices of BMW cars using regression analysis based on a comprehensive dataset containing 25 features and 40,000 samples. The dataset includes various attributes related to each car listing, which are used as input features for the regression model to accurately estimate the car's market value.</p>
